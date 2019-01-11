@@ -1,0 +1,17 @@
+{
+  "main.css": "./static/css/main.d07ee6a4.chunk.css",
+  "main.js": "./static/js/main.67ad2556.chunk.js",
+  "main.js.map": "./static/js/main.67ad2556.chunk.js.map",
+  "static/css/1.39975603.chunk.css": "./static/css/1.39975603.chunk.css",
+  "static/js/1.85471e75.chunk.js": "./static/js/1.85471e75.chunk.js",
+  "static/js/1.85471e75.chunk.js.map": "./static/js/1.85471e75.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/index.css": "./static/media/roboto-condensed-latin-700italic.fb176197.woff",
+  "static/media/logo.png": "./static/media/logo.4564357f.png",
+  "static/css/main.d07ee6a4.chunk.css.map": "./static/css/main.d07ee6a4.chunk.css.map",
+  "static/css/1.39975603.chunk.css.map": "./static/css/1.39975603.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.bf1ad666061be2cf1225e8eafe69a1be.js": "./precache-manifest.bf1ad666061be2cf1225e8eafe69a1be.js",
+  "service-worker.js": "./service-worker.js"
+}
